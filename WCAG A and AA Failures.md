@@ -1,4 +1,4 @@
-# WCAG quick reference A failures
+# WCAG quick reference A and AAfailures
 
 ## Principle 1 – Perceivable
 
